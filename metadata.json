@@ -1,0 +1,6 @@
+{
+  "name": "GDG Ranchi DevFest 2026",
+  "description": "DevFest 2026 is an annual decentralized tech conference hosted by Google Developer Group Ranchi. Explore keynotes, developer tracks, codelabs, and get your official attendee badge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
